@@ -1,4 +1,4 @@
-# LeetCode Wrong-Answer Notebook (错题集)
+# LeetCode Wrong-Answer Notebook 
 
 This repo is my personal LeetCode **wrong-answer notebook**: after each practice session, I write down what I got wrong, what I learned, and how I would solve it next time (with screenshots when helpful).
 
